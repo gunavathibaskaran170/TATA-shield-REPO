@@ -20,7 +20,7 @@ sensor placements stay consistent across twins.
 ## Run
 
 ```bash
-npm start        # = node server.js  → http://localhost:8123
+npm start        # = node server.js  → http://localhost:5173
 ```
 
 Open http://localhost:8123/ in a WebGL-capable browser (Chrome/Edge/Firefox).
